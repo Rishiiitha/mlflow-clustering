@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ai%20workspace/mlflow%20clustering/mlruns/348584140669262978/07dc8e7136a3485fb3da67ebcfa03910/artifacts
+end_time: 1758003883360
+entry_point_name: ''
+experiment_id: '348584140669262978'
+lifecycle_stage: active
+run_id: 07dc8e7136a3485fb3da67ebcfa03910
+run_name: thoughtful-wasp-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758003882721
+status: 4
+tags: []
+user_id: rishi

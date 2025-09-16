@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ai%20workspace/mlflow%20clustering/mlruns/348584140669262978/9b87cf846559495b9105da8a99211505/artifacts
+end_time: 1758003905853
+entry_point_name: ''
+experiment_id: '348584140669262978'
+lifecycle_stage: active
+run_id: 9b87cf846559495b9105da8a99211505
+run_name: crawling-crab-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758003905354
+status: 4
+tags: []
+user_id: rishi
