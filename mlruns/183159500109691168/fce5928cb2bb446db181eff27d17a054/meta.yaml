@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/183159500109691168/fce5928cb2bb446db181eff27d17a054/artifacts
+end_time: 1757996827243
+entry_point_name: ''
+experiment_id: '183159500109691168'
+lifecycle_stage: active
+run_id: fce5928cb2bb446db181eff27d17a054
+run_name: K-Means
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757996821229
+status: 4
+tags: []
+user_id: rishi

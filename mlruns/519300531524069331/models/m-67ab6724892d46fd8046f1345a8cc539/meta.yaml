@@ -1,0 +1,10 @@
+artifact_location: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/519300531524069331/models/m-67ab6724892d46fd8046f1345a8cc539/artifacts
+creation_timestamp: 1757998089635
+experiment_id: '519300531524069331'
+last_updated_timestamp: 1757998092476
+model_id: m-67ab6724892d46fd8046f1345a8cc539
+model_type: null
+name: DBSCAN
+source_run_id: 9df6042f380d4e4683ce47f1f443a652
+status: 2
+status_message: null

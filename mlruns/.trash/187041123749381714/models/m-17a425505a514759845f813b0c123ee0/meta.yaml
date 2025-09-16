@@ -1,0 +1,10 @@
+artifact_location: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/187041123749381714/models/m-17a425505a514759845f813b0c123ee0/artifacts
+creation_timestamp: 1757993935045
+experiment_id: '187041123749381714'
+last_updated_timestamp: 1757993937995
+model_id: m-17a425505a514759845f813b0c123ee0
+model_type: null
+name: model
+source_run_id: fc9f271ca06e4329bb2ec3c6aa240e89
+status: 2
+status_message: null

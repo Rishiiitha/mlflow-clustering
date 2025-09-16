@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/519300531524069331/9ff882fe10e94235a86b39f66984bb72/artifacts
+end_time: 1758002642890
+entry_point_name: ''
+experiment_id: '519300531524069331'
+lifecycle_stage: active
+run_id: 9ff882fe10e94235a86b39f66984bb72
+run_name: DBSCAN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758002635423
+status: 3
+tags: []
+user_id: rishi

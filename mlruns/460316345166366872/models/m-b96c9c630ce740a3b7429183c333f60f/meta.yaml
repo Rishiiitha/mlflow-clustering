@@ -1,0 +1,10 @@
+artifact_location: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/460316345166366872/models/m-b96c9c630ce740a3b7429183c333f60f/artifacts
+creation_timestamp: 1757993709661
+experiment_id: '460316345166366872'
+last_updated_timestamp: 1757993712576
+model_id: m-b96c9c630ce740a3b7429183c333f60f
+model_type: null
+name: kmeans_model
+source_run_id: 75b43e74006f49f9a14e49f0f8271cf1
+status: 2
+status_message: null

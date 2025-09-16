@@ -1,0 +1,10 @@
+artifact_location: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/460316345166366872/models/m-ca1bd7d80e7d4ec6800e748805a85823/artifacts
+creation_timestamp: 1757993712799
+experiment_id: '460316345166366872'
+last_updated_timestamp: 1757993715724
+model_id: m-ca1bd7d80e7d4ec6800e748805a85823
+model_type: null
+name: agglo_model
+source_run_id: 75b43e74006f49f9a14e49f0f8271cf1
+status: 2
+status_message: null

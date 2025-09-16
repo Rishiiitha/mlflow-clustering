@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/460316345166366872/75b43e74006f49f9a14e49f0f8271cf1/artifacts
+end_time: 1757993721999
+entry_point_name: ''
+experiment_id: '460316345166366872'
+lifecycle_stage: active
+run_id: 75b43e74006f49f9a14e49f0f8271cf1
+run_name: Clustering_Experiment
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757993709364
+status: 3
+tags: []
+user_id: rishi

@@ -1,0 +1,10 @@
+artifact_location: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/519300531524069331/models/m-fa75b59c74db44bfa5386ef0846beb47/artifacts
+creation_timestamp: 1758002627984
+experiment_id: '519300531524069331'
+last_updated_timestamp: 1758002631578
+model_id: m-fa75b59c74db44bfa5386ef0846beb47
+model_type: null
+name: Agglomerative
+source_run_id: 6d2fd6bd1fcf470b9a9c61406b37ca4b
+status: 2
+status_message: null

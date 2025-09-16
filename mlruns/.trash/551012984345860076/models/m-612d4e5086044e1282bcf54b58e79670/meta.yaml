@@ -1,0 +1,10 @@
+artifact_location: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/551012984345860076/models/m-612d4e5086044e1282bcf54b58e79670/artifacts
+creation_timestamp: 1757996250012
+experiment_id: '551012984345860076'
+last_updated_timestamp: 1757996252845
+model_id: m-612d4e5086044e1282bcf54b58e79670
+model_type: null
+name: K-Means
+source_run_id: bebc5d6b770644a48189d493097aa73c
+status: 2
+status_message: null

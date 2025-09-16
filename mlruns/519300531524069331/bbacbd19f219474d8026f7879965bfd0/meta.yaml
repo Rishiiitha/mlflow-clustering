@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/519300531524069331/bbacbd19f219474d8026f7879965bfd0/artifacts
+deleted_time: 1758002813932
+end_time: 1757998089496
+entry_point_name: ''
+experiment_id: '519300531524069331'
+lifecycle_stage: deleted
+run_id: bbacbd19f219474d8026f7879965bfd0
+run_name: Agglomerative
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757998083256
+status: 3
+tags: []
+user_id: rishi

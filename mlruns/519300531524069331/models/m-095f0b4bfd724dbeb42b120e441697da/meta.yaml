@@ -1,0 +1,10 @@
+artifact_location: file:///d:/ai%20workspace/mlflow%20clustering/mlruns/519300531524069331/models/m-095f0b4bfd724dbeb42b120e441697da/artifacts
+creation_timestamp: 1758002631663
+experiment_id: '519300531524069331'
+last_updated_timestamp: 1758002634911
+model_id: m-095f0b4bfd724dbeb42b120e441697da
+model_type: null
+name: scaler
+source_run_id: 6d2fd6bd1fcf470b9a9c61406b37ca4b
+status: 2
+status_message: null
